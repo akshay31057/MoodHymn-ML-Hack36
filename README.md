@@ -1,11 +1,14 @@
 # MoodHymns
 This Project was made during [Hack 36](https://hack36.com/) organised by NIT Allahabad.
 
-#TEAM MEMBERS
+# TEAM MEMBERS
 
 [Akshay Sharma](https://github.com/akshay31057)
+
 [Souvik Paul](https://github.com/FLYSKY12)
+
 [Deepanshu Gupta]
+
 [Rishabh Mishra]
 
 # ABSTRACT
