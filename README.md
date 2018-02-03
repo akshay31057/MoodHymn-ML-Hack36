@@ -7,9 +7,9 @@ This Project was made during [Hack 36](https://hack36.com/) organised by NIT All
 
 [Souvik Paul](https://github.com/FLYSKY12)
 
-[Deepanshu Gupta]
+[Deepanshu Gupta](https://github.com/deecoders)
 
-[Rishabh Mishra]
+[Rishabh Mishra](https://github.com/rishabh325)
 
 # ABSTRACT
 Our project basically deals with the the creation of an automatically generated playlist based on the facial expressions of the user as music plays a very important role in human daily life. The difficulties in the creation of large playlists and time required to search a song based on the current mood can be overcome here. This Music Website itself selects songs according to the current mood/facial expressions of the user.
@@ -24,4 +24,8 @@ This project also allows the user to play the desired track just on a click.
 To analyse the current mood of the user we used an API 'face_classification' which have implemented deep learning(Tensor Flow) in its methodology and this result was fed as input to an another API 'Spotify'.
 Python CGI is used to host the project in the form of a website.
 An input to our project is given by feeding an image clicked through webcam.
+# PREVIEW
+![Example 1](/Screenshots/mood1.png)
+![Example 2](/Screenshots/mood2.png)
+![Example 3](/Screenshots/mood3.png)
 
