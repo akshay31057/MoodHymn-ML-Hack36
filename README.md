@@ -1,4 +1,16 @@
 # MoodHymns
+This Project was made during [Hack 36](https://hack36.com/) organised by NIT Allahabad.
+
+# TEAM MEMBERS
+
+[Akshay Sharma](https://github.com/akshay31057)
+
+[Souvik Paul](https://github.com/FLYSKY12)
+
+[Deepanshu Gupta]
+
+[Rishabh Mishra]
+
 # ABSTRACT
 Our project basically deals with the the creation of an automatically generated playlist based on the facial expressions of the user as music plays a very important role in human daily life. The difficulties in the creation of large playlists and time required to search a song based on the current mood can be overcome here. This Music Website itself selects songs according to the current mood/facial expressions of the user.
 This project basically allows user to browse songs of a particular type by depicting the facial expressions of the desired type.
